@@ -2,6 +2,8 @@
 
 Small program to patch ELF32/ELF64 binaries to break simple gdb debugging and other misc. analysis tools. Based on [this article](https://dustri.org/b/screwing-elf-header-for-fun-and-profit.html).
 
+![DEMO](img/demo.png)
+
 ## Usage
 
 ```sh
